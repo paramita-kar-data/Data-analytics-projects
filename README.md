@@ -12,7 +12,7 @@ Tools: SQL, Python, Pandas
 
 ---
 
-## Retail Sales Analysis – Portfolio Project
+## Retail Sales Analysis – Portfolio Project (Tools used: PYTHON)
 
 This project analyzes a retail sales dataset to explore revenue trends and product performance.
 
@@ -22,9 +22,14 @@ Key analysis performed:
 - Monthly sales trend analysis
 
 ### Visualizations
-
 ![Sales by Region](sales_by_region.png)
-
 ![Profit by Category](profit_by_category.png)
-
 ![Monthly Sales Trend](monthly_sales_trend.png)
+
+### SQL Sales Analysis - Portfolio Project (Tool Used: MySqlWorkbench)
+
+Business analysis using SQL queries on retail sales data including:
+- sales by region
+- profit by category
+- running sales totals
+- customer revenue analysis
