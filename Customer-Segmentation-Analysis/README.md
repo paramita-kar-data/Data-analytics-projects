@@ -1,4 +1,4 @@
-# Customer Segmentation Analysis
+# Python-Customer-Segmentation-Analysis/README.md
 
 This project analyzes customer purchase behavior to identify high-value, medium-value, and low-value customers.
 
