@@ -5,9 +5,26 @@ This repository contains my data analytics portfolio projects using SQL, Python,
 ## Projects
 
 ### 1. Retail Sales Analysis
-Tools: SQL, Python (Pandas), Power BI / Tableau  
-Description: Analysis of retail sales dataset to identify revenue trends, product performance, and regional insights.
+Tools: Python, Pandas, Matplotlib
 
 ### 2. Customer Segmentation Analysis
-Tools: SQL, Python, Pandas, Data Visualization  
-Description: Customer behavior analysis and segmentation to identify high-value and at-risk customer groups.
+Tools: SQL, Python, Pandas
+
+---
+
+## Retail Sales Analysis – Portfolio Project
+
+This project analyzes a retail sales dataset to explore revenue trends and product performance.
+
+Key analysis performed:
+- Sales comparison across regions
+- Profit analysis by product category
+- Monthly sales trend analysis
+
+### Visualizations
+
+![Sales by Region](sales_by_region.png)
+
+![Profit by Category](profit_by_category.png)
+
+![Monthly Sales Trend](monthly_sales_trend.png)
